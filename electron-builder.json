@@ -1,0 +1,16 @@
+{
+  "appId": "com.graphos.desktop",
+  "productName": "GraphOS",
+  "files": [
+    "dist/**/*",
+    "node_modules/**/*",
+    "package.json"
+  ],
+  "directories": {
+    "output": "build"
+  },
+  "win": {
+    "target": "nsis",
+    "icon": "src/assets/icon.ico"
+  }
+}
