@@ -28,7 +28,7 @@ Aplicación de escritorio para la creación y gestión de organizadores gráfico
 2. Ejecuta `npm install` para instalar dependencias.
 3. Usa `npm run dev` para desarrollo y `npm run build` para empaquetar.
 
-Estas son las dependencias instaladas en el proyecto, según el archivo package.json:
+# Estas son las dependencias instaladas en el proyecto, según el archivo package.json:
 
 ---
 
@@ -74,14 +74,14 @@ Estas son las dependencias instaladas en el proyecto, según el archivo package.
 - **esbuild**
 - **TypeScript**
 
-#
+# Subir al repositorio
 
-git init
-git remote add origin https://github.com/RicardoMtzSts/App_01.git
-git add .
-git commit -m "Primer commit del proyecto GraphOS"
-git push -u origin master
+- git init
+- git remote add origin https://github.com/RicardoMtzSts/App_01.git
+- git add .
+- git commit -m "Primer commit del proyecto GraphOS"
+- git push -u origin master
 
-(Si el repositorio ya existe y tiene ramas protegidas, se usa main en vez de master: git push -u origin main)
+- (Si el repositorio ya existe y tiene ramas protegidas, se usa main en vez de master: git push -u origin main)
 
 
